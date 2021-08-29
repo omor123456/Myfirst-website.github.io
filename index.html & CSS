@@ -5,15 +5,44 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Hackers</title>
+    
+        <style> 
+
+        div {
+          width: 400px;
+          height: 80px;
+          background: rgb(90, 253, 14);
+          position: relative;
+          animation: myfirst 5s 2;
+          animation-direction: alternate;
+        }
+        
+        @keyframes myfirst {
+          0%   {background: rgb(115, 238, 14); left: 0px; top: 0px;}
+          25%  {background: yellow; left: 20px; top: 0px;}
+          50%  {background: blue; left: 20px; top: 10px;}
+          75%  {background: green; left: 0px; top: 10px;}
+          100% {background: rgb(19, 243, 19); left: 0px; top: 0px;}
+        }
+
+        body {
+            background-color:gray;
+            text-decoration-color: black;
+        }
+
+        </style>
+
+        
+        
+
 </head>
 <body>
-
+    <center>
+     <div>
+    <h1 style= "font-style: italic;"> <strong> How to protect yourself from hackers? </strong></h1>
+    </div> 
     
-    <h1><center>How to protect yourself from hackers?</center></h1>
-    
-    <h2><center> How can hackers find me?</center></h2>
-    
-        <p><center> Anyone who uses a computer connected to the
+      <p style= "font-size: 5mm; font-style: italic;"> <strong> Intro: </strong> Anyone who uses a computer connected to the
              internet has a risk of getting hacked by a 
              hacker. First of all, we need to know about
               how hackers get the info from us. A hacker
@@ -24,25 +53,25 @@
                  After that, computer hackers can also 
                 try to access your computer and private information directly
                  if you are not protected by a firewall. By doing this, they 
-                can monitor our personal data. </center>
+                can monitor our personal data. 
         </p>
-        <center> <img 
-    height="400"
+     <img 
+    height="450"
     width="600"
-    src="https://media.newyorker.com/photos/5ae2197ab231f616c3248add/master/w_1600,c_limit/180507_r31991web.jpg"> </center></img>
+    src="https://media.newyorker.com/photos/5ae2197ab231f616c3248add/master/w_1600,c_limit/180507_r31991web.jpg"> </img> 
     
     <h2>What are things that a hacker can do to me?</h2>
-<li> Hijack your usernames and passwords  </li>
-<li> Steal your money and open credit card and bank accounts in your name </li>
-<li>Request new account Personal Identification Numbers </li>
-<li> Make purchases </li>
-<li> Use and abuse your Social Security number </li>
-<li>Obtain any contact info with others</li>
-<li>Track our location etc.</li>
+<p> 1. Hijack your usernames and passwords </p>
+ <p> 2. Steal your money and open credit card and bank accounts in your name </p>
+<p> 3. Request new account Personal Identification Numbers </p>
+<p> 4. Make purchases </p>
+<p> 5. Use and abuse your Social Security number</p>
+<p> 6. Obtain any contact info with others</p>
+<p> 7. Track our location etc.</p>
     
     <img 
-        height="280"
-        width="280"
+        height="300"
+        width="500"
         src= https://cubic.id/front/images/jurnals/72QoWV4tk8ZMpj9f5NRCXaUhMExRI98MKWNY8UjM.jpg></img>
         
     <h3> Practice safe email and virus/malware protocols from getting hacked by Anyone </h3>
@@ -52,5 +81,11 @@
         <p>3.   Make sure that you have the best security software products installed on your PC</p>
         <p>4.   Use antivirus protection</p>
         <p>5.   Get antispyware software protection etc.</p>
- 
 
+        <p> <Strong> Learm more: </Strong> https://www.ag.state.mn.us/consumer/publications/HowtoProtectYourselfAgainstHackers.asp, https://oag.ca.gov/privacy/facts/online-privacy/protect-your-computer, https://www.chubb.com/us-en/individuals-families/resources/6-ways-to-protect-yourself-from-hackers.html</p>
+        <p> <strong> contact us:</strong> tachowdhury1234@gmail.com or Phone: XXX-XXX-XXXX</p>
+
+    </center>
+
+
+</body>
