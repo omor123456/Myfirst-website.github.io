@@ -23,6 +23,11 @@
           50%  {background: blue; left: 20px; top: 10px;}
           75%  {background: green; left: 0px; top: 10px;}
           100% {background: rgb(19, 243, 19); left: 0px; top: 0px;}
+          0%   {background: rgb(115, 238, 14); left: 0px; top: 0px;}
+          25%  {background: yellow; left: 20px; top: 0px;}
+          50%  {background: blue; left: 20px; top: 10px;}
+          75%  {background: green; left: 0px; top: 10px;}
+          100% {background: rgb(19, 243, 19); left: 0px; top: 0px;}
         }
 
         body {
@@ -38,7 +43,7 @@
 </head>
 <body>
     <center>
-     <div>
+     <div style="animation-duration: 6s;">
     <h1 style= "font-style: italic;"> <strong> How to protect yourself from hackers? </strong></h1>
     </div> 
     
@@ -60,14 +65,14 @@
     width="600"
     src="https://media.newyorker.com/photos/5ae2197ab231f616c3248add/master/w_1600,c_limit/180507_r31991web.jpg"> </img> 
     
-    <h2>What are things that a hacker can do to me?</h2>
-<p> 1. Hijack your usernames and passwords </p>
- <p> 2. Steal your money and open credit card and bank accounts in your name </p>
-<p> 3. Request new account Personal Identification Numbers </p>
-<p> 4. Make purchases </p>
-<p> 5. Use and abuse your Social Security number</p>
-<p> 6. Obtain any contact info with others</p>
-<p> 7. Track our location etc.</p>
+    <h2 >What are things that a hacker can do to me?</h2>
+<p style= "font-size: 5mm;"> 1. Hijack your usernames and passwords </p>
+ <p style= "font-size: 5mm;"> 2. Steal your money and open credit card and bank accounts in your name </p>
+<p style= "font-size: 5mm;"> 3. Request new account Personal Identification Numbers </p>
+<p style= "font-size: 5mm;"> 4. Make purchases </p>
+<p style= "font-size: 5mm;"> 5. Use and abuse your Social Security number</p>
+<p style= "font-size: 5mm;"> 6. Obtain any contact info with others</p>
+<p style= "font-size: 5mm;"> 7. Track our location etc.</p>
     
     <img 
         height="300"
@@ -76,16 +81,21 @@
         
     <h3> Practice safe email and virus/malware protocols from getting hacked by Anyone </h3>
     
-        <p>1.    Don't open messages from unknown senders</p>
-        <p>2.   Immediately delete messages you suspect to be spam</p>
-        <p>3.   Make sure that you have the best security software products installed on your PC</p>
-        <p>4.   Use antivirus protection</p>
-        <p>5.   Get antispyware software protection etc.</p>
+        <p style= "font-size: 5mm;">1.    Don't open messages from unknown senders</p>
+        <p style= "font-size: 5mm;">2.   Immediately delete messages you suspect to be spam</p>
+        <p style= "font-size: 5mm;">3.   Make sure that you have the best security software products installed on your PC</p>
+        <p style= "font-size: 5mm;">4.   Use antivirus protection</p>
+        <p style= "font-size: 5mm;">5.   Get antispyware software protection etc.</p>
 
-        <p> <Strong> Learm more: </Strong> https://www.ag.state.mn.us/consumer/publications/HowtoProtectYourselfAgainstHackers.asp, https://oag.ca.gov/privacy/facts/online-privacy/protect-your-computer, https://www.chubb.com/us-en/individuals-families/resources/6-ways-to-protect-yourself-from-hackers.html</p>
-        <p> <strong> contact us:</strong> tachowdhury1234@gmail.com or Phone: XXX-XXX-XXXX</p>
 
+        
+        <a style="font-size: 6mm;" href= "https://www.ag.state.mn.us/consumer/publications/HowtoProtectYourselfAgainstHackers.asp">
+        Click here to learn more!
+        </a> 
+    
+    
+        <p style= "font-size: 5mm;"> Thank you for reading! </p>
+<p style="font-size: 5mm;"> Tasin Chowdhury (Omor)</p>
     </center>
-
 
 </body>
